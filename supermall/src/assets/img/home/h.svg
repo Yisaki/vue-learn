@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="180px" height="180px" viewBox="0 0 180 180" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>安逸花_帮助中心</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="25.9765625%" y1="7.44116512%" x2="57.5544946%" y2="72.2439236%" id="linearGradient-1">
+            <stop stop-color="#81DDF6" offset="0%"></stop>
+            <stop stop-color="#4C7BEC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.2580149%" y1="31.2863142%" x2="72.4282233%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#286FF4" offset="0%"></stop>
+            <stop stop-color="#4C7BEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.2580149%" y1="34.7403531%" x2="72.4282233%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#286FF4" offset="0%"></stop>
+            <stop stop-color="#4C7BEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="23.8404962%" y1="57.7175526%" x2="86.0189112%" y2="57.7175526%" id="linearGradient-4">
+            <stop stop-color="#0C61FF" offset="0%"></stop>
+            <stop stop-color="#4C7BEC" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.52%" y1="0%" x2="54.4540833%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#F7B500" offset="100%"></stop>
+        </linearGradient>
+        <path d="M78.2084841,74.3142857 L78.2084841,73.2711039 C78.2084841,71.4827922 78.5902682,69.9180195 79.3538366,68.4277597 C80.041048,67.086526 81.0336868,65.8198052 82.4081098,64.7021104 C86.0732377,61.5725649 88.2875858,59.5607143 88.9747973,58.8155844 C90.8073612,56.4311688 91.8,53.3761364 91.8,49.650487 C91.8,45.1051948 90.2728634,41.5285714 87.2185901,38.9206169 C84.1643169,36.2381494 80.1174049,34.9714286 75.1542109,34.9714286 C69.5038054,34.9714286 65.0751092,36.5362013 61.7917654,39.6657468 C58.4320649,42.7952922 56.8285714,47.1170455 56.8285714,52.6310065 L65.5332502,52.6310065 C65.5332502,49.501461 66.1441048,47.0425325 67.4421709,45.3287338 C68.8929507,43.2423701 71.2600125,42.2737013 74.619713,42.2737013 C77.2158453,42.2737013 79.2774797,42.9443182 80.7282595,44.3600649 C82.1026825,45.7758117 82.8662508,47.7131494 82.8662508,50.1720779 C82.8662508,52.0349026 82.1790393,53.8232143 80.8046163,55.4625 L79.8883344,56.5056818 C74.9251404,60.8274351 71.947224,63.9569805 70.9545852,65.9688312 C69.8855895,67.9806818 69.4274485,70.4396104 69.4274485,73.2711039 L69.4274485,74.3142857 L78.2084841,74.3142857 Z M73.1861751,89.6142857 C74.7373272,89.6142857 76.0064516,89.1076632 77.0640553,88.0944182 C78.121659,87.0811731 78.6857143,85.7060549 78.6857143,84.1138127 C78.6857143,82.5215705 78.121659,81.2188269 77.1345622,80.2055818 C76.0769585,79.1923368 74.7373272,78.6857143 73.1861751,78.6857143 C71.635023,78.6857143 70.3658986,79.1923368 69.3082949,80.2055818 C68.2506912,81.2188269 67.7571429,82.5215705 67.7571429,84.1138127 C67.7571429,85.7060549 68.2506912,87.0087985 69.3082949,88.0220435 C70.3658986,89.0352886 71.635023,89.6142857 73.1861751,89.6142857 Z" id="path-6"></path>
+        <filter x="-21.4%" y="-8.2%" width="142.9%" height="127.5%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.180392157   0 0 0 0 0.423529412   0 0 0 0 0.909803922  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-15.7%" y="-4.6%" width="131.5%" height="120.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="李向楠" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="安逸花_帮助中心">
+            <g id="帮助中心备份" transform="translate(13.500000, 20.764286)">
+                <g id="编组-12">
+                    <ellipse id="椭圆形备份-4" fill="#DBEBFF" cx="76.5" cy="126.771429" rx="76.5" ry="19.6714286"></ellipse>
+                    <g id="椭圆形" transform="translate(6.557143, 0.000000)">
+                        <g id="蒙版" fill="url(#linearGradient-1)">
+                            <path d="M68.5598552,0 C30.6952036,0 0,27.1741419 0,60.3088932 C0,81.5747819 12.6451964,100.254568 31.7131826,110.909487 L31.7131826,137.276308 L57.86228,119.880401 C61.3240588,120.268488 64.7456841,120.304985 68.5598552,120.304985 C106.424507,120.304985 137.276308,93.4438355 137.276308,60.3090842 C137.276308,27.1741419 106.424507,0 68.5598552,0 Z" id="形状"></path>
+                        </g>
+                        <path d="M63.3857143,74.9671559 C67.2839524,76.0661615 77.6701498,79.2678522 94.5443065,84.5722279 C106.781959,88.4191227 124.956724,75.0124554 122.099904,62.3146917 C120.790913,56.4965947 108.377457,48.7744958 101.152361,45.7015715 C96.9728385,43.9239678 87.7393189,40.3472535 73.4518022,34.9714286 L78.8668237,50.608649 L63.3857143,74.9671559 Z" id="路径-27" fill="url(#linearGradient-2)"></path>
+                        <polygon id="路径-3" fill="url(#linearGradient-3)" points="50.2714286 53.3131538 70.9731195 61.2 78.6857143 53.3131538 74.2003479 39.3428571 58.5205179 39.3428571"></polygon>
+                    </g>
+                </g>
+                <path d="M72.1603705,90.5348194 C82.5321074,93.8392742 89.1081391,95.710116 91.8884655,96.1473447 C93.8280509,96.45236 97.673185,93.8199517 95.5505642,90.5348194 C93.1091333,86.7562719 84.0027701,82.0390303 75.4609363,78.6857143 C73.0223434,81.3776249 71.9221548,85.3273266 72.1603705,90.5348194 Z" id="路径-2" fill="url(#linearGradient-4)"></path>
+                <g id="？">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                    <use fill="url(#linearGradient-5)" fill-rule="evenodd" xlink:href="#path-6"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-6"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

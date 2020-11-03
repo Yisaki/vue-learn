@@ -1,19 +1,42 @@
 import request from '@/network/request'
 
-export function getHomeMultidata(){
-    const promise = new Promise ( (resolve, reject) => {
-        setTimeout(()=>{
-            console.log("getHomeMultidata...")
-            
-            const res=[{
-                link:"asd",
-                image:""
-            }]
+export function getHomeMultidata() {
+  const promise = new Promise((resolve, reject) => {
+    setTimeout(() => {
+      console.log("getHomeMultidata...")
 
-        },1000)
-    } )
-    
-    return promise;
+      const res = [
+        {
+          id: 0,
+          link: "asd",
+          image: "h",
+          title: "帮助中心"
+        },
+        {
+          id: 1,
+          link: "asd",
+          image: "l",
+          title: "查看额度"
+        },
+        {
+          id: 2,
+          link: "asd",
+          image: "refund",
+          title: "还款"
+        },
+        {
+          id: 3,
+          link: "asd",
+          image: "r",
+          title: "红包"
+        }
+      ]
+
+      resolve(res);
+    }, 1000)
+  })
+
+  return promise;
 }
 
 /* request({
